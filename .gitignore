@@ -1,0 +1,5 @@
+autosave.txt
+last_img.txt
+__pycache__/
+*.pyc
+.venv
